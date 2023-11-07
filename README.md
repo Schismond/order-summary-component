@@ -5,7 +5,7 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 ## Table of contents
 
 - [Screenshot](#screenshot)
-- [Live-Demo](#Live Demo)
+- [Links](#Links)
 - [Built with](#built-with)
 
 
@@ -13,9 +13,9 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ![](./images/screen.png)
 
-## Live Demo
+## Links
 
-Check out the live demo of the Restaurant Website: 
+Check out the live demo of the Order summary card challenge: 
 
 [Github Pages](https://schismond.github.io/order-summary-component/)
 OR
