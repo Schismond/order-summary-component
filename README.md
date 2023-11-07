@@ -19,7 +19,7 @@ Check out the live demo of the Restaurant Website:
 
 [Github Pages](https://schismond.github.io/order-summary-component/)
 OR
-[Netlify](schismond-order-summary-component.netlify.app)
+[Netlify](https://schismond-order-summary-component.netlify.app)
 
 ### Built with
 
